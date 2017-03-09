@@ -2,5 +2,5 @@
 
 ## List of closed source projects  
 
-1. API and backend for generating and emailing digital security codes, integrated with Chargify payment gateway (Python)
+1. Chargify payment gateway integration and API backend for digital products app (Python)
 2. Time based 2 Factor Authentication plugin (JavaScript)
